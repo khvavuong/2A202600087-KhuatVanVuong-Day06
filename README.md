@@ -1,8 +1,8 @@
 # Nhom69-Lab6: AI Agent Chatbot
 
-## Vinfast Showroom Assistant Sale
+## Vinfast Showroom Assistant Sale Demo
 
-[Watch video](./extras/vinfast_final.mp4)
+https://github.com/user-attachments/assets/ee9b253f-b447-4905-8e58-2a55d834f0e3
 
 ## Folder Structure
 
